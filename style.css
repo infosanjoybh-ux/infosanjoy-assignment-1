@@ -172,6 +172,8 @@ nav .nav-4{
     font-size: 30px;
     color: black;
     margin-bottom: 30px;
+    font-size: 14px;
+    color: #718096;
 }
 .same .p{
     font-size: 16px;
@@ -179,5 +181,145 @@ nav .nav-4{
     line-height: 28px;
 }
 
+#brain {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 80px 120px;
+    gap: 60px;
+}
 
+.brain-2 {
+    max-width: 520px;
+}
 
+.brain-2 h5 {
+    color: #2bb673;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+}
+
+.brain-2 h1 {
+    font-size: 44px;
+    line-height: 1.2;
+    font-weight: 700;
+    color: #0b1f33;
+    margin-bottom: 20px;
+}
+
+.brain-2 p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: #6b7280;
+    margin-bottom: 28px;
+}
+
+.brain-2 ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.brain-2 ul li {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 16px;
+    color: #0b1f33;
+    margin-bottom: 16px;
+}
+.brain-2 ul li img {
+    width: 22px;
+    height: 22px;
+}
+#brain {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 80px 120px;
+    gap: 60px;
+}
+.brain-2 {
+    max-width: 520px;
+}
+.brain-2 h5 {
+    color: #2bb673;
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin-bottom: 12px;
+}
+.brain-2 h1 {
+    font-size: 44px;
+    line-height: 1.2;
+    font-weight: 700;
+    color: #0b1f33;
+    margin-bottom: 20px;
+}
+.brain-2 p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: #6b7280;
+    margin-bottom: 28px;
+}
+.brain-2 ul {
+    list-style: none;
+}
+.brain-2 ul li {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 16px;
+    color: #0b1f33;
+    margin-bottom: 16px;
+}
+
+.brain-2 ul li img {
+    width: 22px;
+    height: 22px;
+}
+#eassy{
+    width: 100%;
+    background-color: #f9f7f3;
+    padding: 80px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0px 120px 120px 120px;
+}
+.eassy-1 {
+    max-width: 720px;
+    text-align: center;
+}
+.eassy-1 h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    color: #000000;
+    margin-bottom: 16px;
+}
+
+.eassy-1 p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #000000;
+    line-height: 1.2;
+    
+}
+.eassy-1 p{
+    margin-top: 16px;
+    font-size: 14px;
+    color: #000000;
+}
+
+.eassy-1 button {
+    width: 160px;
+    height: 40px;
+    color: #ffffff;
+    background-color: #2bb673;
+    border-radius: 10px;
+    margin: auto;
+    align-items: center;
+    display: inline-flex;
+    border:5px solid #ffffff;
+}
