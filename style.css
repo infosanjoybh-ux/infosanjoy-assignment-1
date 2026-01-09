@@ -290,6 +290,7 @@ nav .nav-4{
 .eassy-1 {
     max-width: 720px;
     text-align: center;
+    margin: auto;
 }
 .eassy-1 h1 {
     font-size: 36px;
@@ -322,4 +323,42 @@ nav .nav-4{
     align-items: center;
     display: inline-flex;
     border:5px solid #ffffff;
+}
+#futor {
+    width: 100%;
+    background-color: #020227;
+    padding: 40px 60px 20px;
+    color: #ffffff;
+}
+.futor-2 {
+    margin-bottom: 30px;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.futor-2 img {
+    width: 120px;
+}
+
+.futor-2 h4 {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    
+}
+
+#futor p img {
+    width: 14px;
+    height: 14px;
+}
+#futor p {
+    text-align: center;
+    color: #cbd5e1;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13px;
+    justify-content: center;
 }
