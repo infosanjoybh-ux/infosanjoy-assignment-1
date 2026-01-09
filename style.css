@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 nav{
     width: 100%;
     max-width: 1240x;
@@ -33,6 +34,11 @@ nav .nav-4{
     padding: 12px 16px 12px 16px;
     border-radius: 5px;
     border: none;
+}
+.section-heading{
+    max-width: 827px;
+    text-align: center;
+    margin: auto;
 }
 #banner{
     width: 100%;
@@ -124,3 +130,54 @@ nav .nav-4{
     color: #ffffff;
     border: 2px solid #ffffff;
 }
+#notes{
+    height: 390px;
+    width: 1240px;
+    margin: auto;
+    background-color: #fff0f0;
+    row-gap: 10px;
+   
+}
+#notes .part-1{
+    width: 1240px;
+    height: 116px;
+    padding: 20px 295px 0px 295px;
+    margin: auto;
+    justify-content: center;
+    
+}
+#notes .part-2{
+    
+    display: flex;
+    gap: 24px;
+    background-color: #ffffff;
+    
+}
+.same{
+    height: 300px;
+    width: 322px;
+    padding: 30px;
+    
+}
+.same img{
+    background-color: #30B868;
+    max-width: 54px;
+    margin-bottom: 30px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    
+}
+.same .h3{
+    font-size: 30px;
+    color: black;
+    margin-bottom: 30px;
+}
+.same .p{
+    font-size: 16px;
+    color: #757575;
+    line-height: 28px;
+}
+
+
+
